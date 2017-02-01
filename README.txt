@@ -1,13 +1,9 @@
-Trabalho realizado no ambito da disciplina de Inteligencia Artificial, eu fiz o codigo e o meu colega o relatório.
-
-
-
 Jogo dos 8
 
 Rodrigo Flaminio Ribeiro e Ricardo Dias Azevedo
 
 
-Disciplina: Inteligência Artificial
+Disciplina: InteligÃªncia Artificial
 
 
 
@@ -16,15 +12,15 @@ Compilar: g++ IA_Trabalho_1.cpp
 executar: ./a.out
 
 input: 
-1- Uma matriz 3*3 (para a configuração de entrada) com os números de 0 a 8 sem repetições, os números podem estar separados por espaços e/ou parágrafos. O ‘0’ representa o espaço em branco.
+1- Uma matriz 3*3 (para a configuraÃ§Ã£o de entrada) com os nÃºmeros de 0 a 8 sem repetiÃ§Ãµes, os nÃºmeros podem estar separados por espaÃ§os e/ou parÃ¡grafos. O â€˜0â€™ representa o espaÃ§o em branco.
 
-2- Uma matriz 3*3 (para a configuração de final) com os números de 0 a 8 sem repetições, os números podem estar separados por espaços e/ou parágrafos. O ‘0’ representa o espaço em branco.
+2- Uma matriz 3*3 (para a configuraÃ§Ã£o de final) com os nÃºmeros de 0 a 8 sem repetiÃ§Ãµes, os nÃºmeros podem estar separados por espaÃ§os e/ou parÃ¡grafos. O â€˜0â€™ representa o espaÃ§o em branco.
 
-3- Se for possível de resolver, vai lhe ser apresentado outro menu, com os diferentes algoritmos de pesquisa, na pesquisa gulosa e A*, sera ainda dada a opção de escolher a heurística que quer usar.
+3- Se for possÃ­vel de resolver, vai lhe ser apresentado outro menu, com os diferentes algoritmos de pesquisa, na pesquisa gulosa e A*, sera ainda dada a opÃ§Ã£o de escolher a heurÃ­stica que quer usar.
 
-4- Se a solução for encontrada c/ uma profundidade inferior a 100, sera dada a opção de escolher se quer uma visualização mais gráfica, com o “espaço em branco” a ser movido até encontrar a solução.
+4- Se a soluÃ§Ã£o for encontrada c/ uma profundidade inferior a 100, sera dada a opÃ§Ã£o de escolher se quer uma visualizaÃ§Ã£o mais grÃ¡fica, com o â€œespaÃ§o em brancoâ€ a ser movido atÃ© encontrar a soluÃ§Ã£o.
 
-*Legenda: “U”-Cima, “D”-Baixo, “R”-Direita, “L”-Esquerda
+*Legenda: â€œUâ€-Cima, â€œDâ€-Baixo, â€œRâ€-Direita, â€œLâ€-Esquerda
 
 
 
@@ -44,7 +40,7 @@ ex: ps: nao colocar o que esta dentro dos ()
 
 2  (BFS)
 
-2 (não quer a visualização)
+2 (nÃ£o quer a visualizaÃ§Ã£o)
 
 
 
@@ -58,9 +54,9 @@ ex2:
  7 6 5
 
 5  (A*)
-2  (heurística)
+2  (heurÃ­stica)
 
-1  (1 se quiser a visualização)
+1  (1 se quiser a visualizaÃ§Ã£o)
 
 
 
